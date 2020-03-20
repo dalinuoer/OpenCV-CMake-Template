@@ -6,21 +6,23 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/53065/Documents/Code/opencvcmake/include/hello.h
+C:/Users/53065/Documents/Code/OpenCV-CMake-Template/include/hello.h
 
-C:/Users/53065/Documents/Code/opencvcmake/src/hello.cpp
+C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/hello.cpp
 stdio.h
 -
 ../include/hello.h
-C:/Users/53065/Documents/Code/opencvcmake/include/hello.h
+C:/Users/53065/Documents/Code/OpenCV-CMake-Template/include/hello.h
 
-C:/Users/53065/Documents/Code/opencvcmake/src/main.cpp
+C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/main.cpp
+stdio.h
+-
 opencv2/opencv.hpp
 -
 opencv2/highgui.hpp
 -
 ../include/hello.h
-C:/Users/53065/Documents/Code/opencvcmake/include/hello.h
+C:/Users/53065/Documents/Code/OpenCV-CMake-Template/include/hello.h
 
 C:/Users/53065/Documents/Software/opencv/build/x64/MinGW/cv_cpu_config.h
 

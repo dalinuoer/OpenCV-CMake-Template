@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/53065/Documents/Code/opencvcmake/src/hello.cpp" "C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles/opencv-test.dir/src/hello.cpp.obj"
-  "C:/Users/53065/Documents/Code/opencvcmake/src/main.cpp" "C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles/opencv-test.dir/src/main.cpp.obj"
+  "C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/hello.cpp" "C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build/CMakeFiles/opencv-test.dir/src/hello.cpp.obj"
+  "C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/main.cpp" "C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build/CMakeFiles/opencv-test.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

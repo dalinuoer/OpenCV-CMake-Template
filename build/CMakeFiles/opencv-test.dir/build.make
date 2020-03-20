@@ -43,10 +43,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:/Users/53065/Documents/Code/opencvcmake
+CMAKE_SOURCE_DIR = C:/Users/53065/Documents/Code/OpenCV-CMake-Template
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:/Users/53065/Documents/Code/opencvcmake/build
+CMAKE_BINARY_DIR = C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/opencv-test.dir/depend.make
@@ -60,30 +60,30 @@ include CMakeFiles/opencv-test.dir/flags.make
 CMakeFiles/opencv-test.dir/src/hello.cpp.obj: CMakeFiles/opencv-test.dir/flags.make
 CMakeFiles/opencv-test.dir/src/hello.cpp.obj: CMakeFiles/opencv-test.dir/includes_CXX.rsp
 CMakeFiles/opencv-test.dir/src/hello.cpp.obj: ../src/hello.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv-test.dir/src/hello.cpp.obj"
-	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv-test.dir/src/hello.cpp.obj -c C:/Users/53065/Documents/Code/opencvcmake/src/hello.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv-test.dir/src/hello.cpp.obj"
+	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv-test.dir/src/hello.cpp.obj -c C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/hello.cpp
 
 CMakeFiles/opencv-test.dir/src/hello.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv-test.dir/src/hello.cpp.i"
-	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/53065/Documents/Code/opencvcmake/src/hello.cpp > CMakeFiles/opencv-test.dir/src/hello.cpp.i
+	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/hello.cpp > CMakeFiles/opencv-test.dir/src/hello.cpp.i
 
 CMakeFiles/opencv-test.dir/src/hello.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv-test.dir/src/hello.cpp.s"
-	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/53065/Documents/Code/opencvcmake/src/hello.cpp -o CMakeFiles/opencv-test.dir/src/hello.cpp.s
+	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/hello.cpp -o CMakeFiles/opencv-test.dir/src/hello.cpp.s
 
 CMakeFiles/opencv-test.dir/src/main.cpp.obj: CMakeFiles/opencv-test.dir/flags.make
 CMakeFiles/opencv-test.dir/src/main.cpp.obj: CMakeFiles/opencv-test.dir/includes_CXX.rsp
 CMakeFiles/opencv-test.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/opencv-test.dir/src/main.cpp.obj"
-	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv-test.dir/src/main.cpp.obj -c C:/Users/53065/Documents/Code/opencvcmake/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/opencv-test.dir/src/main.cpp.obj"
+	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv-test.dir/src/main.cpp.obj -c C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/main.cpp
 
 CMakeFiles/opencv-test.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv-test.dir/src/main.cpp.i"
-	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/53065/Documents/Code/opencvcmake/src/main.cpp > CMakeFiles/opencv-test.dir/src/main.cpp.i
+	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/main.cpp > CMakeFiles/opencv-test.dir/src/main.cpp.i
 
 CMakeFiles/opencv-test.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv-test.dir/src/main.cpp.s"
-	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/53065/Documents/Code/opencvcmake/src/main.cpp -o CMakeFiles/opencv-test.dir/src/main.cpp.s
+	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:/Users/53065/Documents/Code/OpenCV-CMake-Template/src/main.cpp -o CMakeFiles/opencv-test.dir/src/main.cpp.s
 
 # Object files for target opencv-test
 opencv__test_OBJECTS = \
@@ -113,7 +113,7 @@ opencv-test.exe: C:/Users/53065/Documents/Software/opencv/build/x64/MinGW/lib/li
 opencv-test.exe: C:/Users/53065/Documents/Software/opencv/build/x64/MinGW/lib/libopencv_core420.dll.a
 opencv-test.exe: CMakeFiles/opencv-test.dir/linklibs.rsp
 opencv-test.exe: CMakeFiles/opencv-test.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable opencv-test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable opencv-test.exe"
 	"C:/Program Files/CMake/bin/cmake.exe" -E remove -f CMakeFiles/opencv-test.dir/objects.a
 	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/ar.exe cr CMakeFiles/opencv-test.dir/objects.a @CMakeFiles/opencv-test.dir/objects1.rsp
 	C:/Users/53065/Documents/Software/mingw-w64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0/mingw64/bin/c++.exe -g   -Wl,--whole-archive CMakeFiles/opencv-test.dir/objects.a -Wl,--no-whole-archive  -o opencv-test.exe -Wl,--out-implib,libopencv-test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/opencv-test.dir/linklibs.rsp
@@ -128,6 +128,6 @@ CMakeFiles/opencv-test.dir/clean:
 .PHONY : CMakeFiles/opencv-test.dir/clean
 
 CMakeFiles/opencv-test.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/Users/53065/Documents/Code/opencvcmake C:/Users/53065/Documents/Code/opencvcmake C:/Users/53065/Documents/Code/opencvcmake/build C:/Users/53065/Documents/Code/opencvcmake/build C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles/opencv-test.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/Users/53065/Documents/Code/OpenCV-CMake-Template C:/Users/53065/Documents/Code/OpenCV-CMake-Template C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build C:/Users/53065/Documents/Code/OpenCV-CMake-Template/build/CMakeFiles/opencv-test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/opencv-test.dir/depend
 
