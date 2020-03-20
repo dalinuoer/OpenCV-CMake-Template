@@ -1,0 +1,3 @@
+C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles/opencv-test.dir
+C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles/edit_cache.dir
+C:/Users/53065/Documents/Code/opencvcmake/build/CMakeFiles/rebuild_cache.dir
